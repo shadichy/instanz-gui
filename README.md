@@ -1,2 +1,2 @@
 # instanz-gui
-instanz frontend, written in gtk
+instanz frontend, written in qt
